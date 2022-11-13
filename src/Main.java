@@ -4,8 +4,8 @@ public class Main {
         int oneBonusMile = 20;
         int ticket = 221;
 
-        int TotalBonus = ticket / oneBonusMile;
-        System.out.printf( "Итого миль начислится с билета: " + TotalBonus);
+        int totalBonus = ticket / oneBonusMile;
+        System.out.printf( "Итого миль начислится с билета: " + totalBonus);
 
     }
 }
